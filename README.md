@@ -32,7 +32,7 @@ A real-time AI-based concentration monitoring system using **Python**, **OpenCV*
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/DineshBoja/Concentration_Detector-AI.git
+   git clone https://github.com/chelurinavyasree/Concentration_Detector-AI.git
    cd Concentration_Detector-AI
 Install the required dependencies
 
@@ -74,9 +74,9 @@ Visual UI: Customize colors, fonts, and messages in the code
 
 👨‍💻 Author
 Prepared by:
-🧑‍🎓 B Dinesh – CSE (AI)
-🏫 Annamacharya Institute of Technology and Sciences, Rajampet
-📧 bojadinesh2003@gmail.com
+Navya Sree
+GitHub: https://github.com/chelurinavyasree
+
 
 🙌 Acknowledgments
 Google MediaPipe
